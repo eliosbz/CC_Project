@@ -6,7 +6,7 @@ This project consists of a Data Analytics application deployed in the AWS cloud 
 The aim of this application is to allow users to perform analysis about the stock market shares of some of the biggest company in the world and to integrate the data coming from other sources such as financial news and social media sentiment analysis.
 
 ### Technology stack
-- Data retrieving and storing:
+- Data Retrieving and Storing:
   - AWS Lambda
   - AWS Step Functions
   - AWS EventBridge
@@ -15,7 +15,7 @@ The aim of this application is to allow users to perform analysis about the stoc
   - Streamlit
   - Docker
   - AWS Elastic Beanstalk
-- Data sources:
+- Data Sources:
   - Alpaca API
   - Twitter API
 - Test and Validation:
