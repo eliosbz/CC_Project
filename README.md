@@ -1,5 +1,5 @@
 # Cloud Computing project
-This repository contains the implementation of the final project for the Cloud Computing course at Sapienza University of Rome, a.y. 2021/2022.
+This repository contains the implementation of the final project for the _Cloud Computing_ course at Sapienza University of Rome, a.y. 2021/2022.
 
 ### About
 This project consists of a Data Analytics application deployed in the AWS cloud platform.
